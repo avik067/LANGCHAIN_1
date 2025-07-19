@@ -1,3 +1,7 @@
 langchain
-openai
+# openai
+# langchain-openai
 langchain-community
+google-generativeai  # direct access to Google Generative AI // Any Python app
+langchain-google-genai # langchain wrapper for Google Generative AI  // LangChain framework 
+charset-normalizer
